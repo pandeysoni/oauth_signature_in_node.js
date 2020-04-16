@@ -1,0 +1,22 @@
+{
+  "name": "oauth_signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeysoni/oauth_signature_in_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeysoni/oauth_signature_in_node.js/issues"
+  },
+  "homepage": "https://github.com/pandeysoni/oauth_signature_in_node.js#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
+}
