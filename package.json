@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pandeysoni/oauth_signature_in_node.js#readme",
   "dependencies": {
-    "uuid": "^7.0.3"
+    "uuid": "^14.0.0"
   }
 }
